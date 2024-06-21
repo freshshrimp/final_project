@@ -1,5 +1,5 @@
 #include "SDL_basic.h"
-
+////
 //初始化及銷毀
 //////////////////////////////
 SDL_Window *win = NULL;
