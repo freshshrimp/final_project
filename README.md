@@ -46,27 +46,27 @@ The game consists of 30 rounds (days). Each day, the player must place a bet on 
 
 Game cover:
 
-<![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png)<![endif]>
+![game cover](https://github.com/freshshrimp/final_project/blob/main/picture/game%20cover.png)
 
 Game Story:
 
-<![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image004.png)<![endif]>
+![game story](https://github.com/freshshrimp/final_project/blob/main/picture/game%20story.png)
 
 **Home Menu:** In the home menu, you can check your achievements and see the trophies you've earned. You can also choose different areas to explore.
 
-<![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image006.png)<![endif]> <![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image008.png)<![endif]>
+![home menu 1](https://github.com/freshshrimp/final_project/blob/main/picture/hone%20menu%201.png)
 
 **Horse Training menu:** Here, the trainer will tell you about the condition of each horse. You can use this information to decide which horse to bet on.
 
-<![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image010.png)<![endif]> <![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image012.png)<![endif]>
+![trainer](https://github.com/freshshrimp/final_project/blob/main/picture/trainer.png)
 
 **Analyst Menu:** if player have trouble with reading a lot of imformation about horse. Player can take a quick tip, you can buy information from the analyst about which horse is more likely to win today.
 
-<![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image014.png)<![endif]>
+![analyst](https://github.com/freshshrimp/final_project/blob/main/picture/analyst.png)
 
 **Ticket Buying Menu:** In this menu, you have to decide which horse to bet on and how much money to wager.
 
-<![if !vml]>![](file:///C:\Users\alen6\AppData\Local\Temp\msohtmlclip1\01\clip_image016.png)<![endif]>
+![but ticket](https://github.com/freshshrimp/final_project/blob/main/picture/buy%20ticket.png)
 
 **Racing Menu:** After placing your bets, the horse race begins. During the race, horses might encounter puddles or slow down due to poor stanima. These random events make the game more exciting and fun.
 
