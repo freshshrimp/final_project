@@ -70,7 +70,7 @@ Game Story:
 
 **Racing Menu:** After placing your bets, the horse race begins. During the race, horses might encounter puddles or slow down due to poor stanima. These random events make the game more exciting and fun.
 
-記得放一張賽馬過程的圖片，我跑遊戲幼幼幼當機
+![racing](https://github.com/freshshrimp/final_project/blob/main/racing.png)
 
 ## Game Features
 
@@ -85,6 +85,6 @@ Game Story:
 |--------|-----------|------|
 | 412410049 | chengen1018 |About 60% of the code, some GitHub README content, slide of final prestation and oral prestation. |
 | 412410085 | freshshrimp | Setting up the SDL environment, contributing 39% of the code, and primarily writing the GitHub README. |
-| 421410053 |  |Creating the presentation slide and providing suggestions for game development. |
-| 421410055 |  | Creating the presentation slide and providing suggestions for game development. |
-| 412410041 | | Creating the presentation slide and providing suggestions for game development. |
+| 421410053 | HenryKang12 |Creating the presentation slide and providing suggestions for game development. |
+| 421410055 | wrestly1 | Creating the presentation slide and providing suggestions for game development. |
+| 412410041 |sharshark1203 | Creating the presentation slide and providing suggestions for game development. |
